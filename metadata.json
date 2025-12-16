@@ -1,0 +1,5 @@
+{
+  "name": "LegalCase AI Classifier",
+  "description": "An intelligent agent that parses legal cause list PDFs, extracts case details, and automatically classifies them into types (Criminal, Civil, Service, etc.) for easy analysis.",
+  "requestFramePermissions": []
+}
